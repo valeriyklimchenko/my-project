@@ -1,1 +1,2 @@
 feature text file
+closed issue 2
